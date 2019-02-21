@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Jan 19, 2019 2:11:31 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="pojo.Products" table="products" catalog="factory" optimistic-lock="version">
+        <id name="idProducts" type="java.lang.Integer">
+            <column name="idProducts" />
+            <generator class="identity" />
+        </id>
+        <property name="name" type="string">
+            <column name="Name" length="45" not-null="true" />
+        </property>
+        <property name="code" type="string">
+            <column name="Code" length="45" not-null="true" />
+        </property>
+        <property name="date" type="date">
+            <column name="Date" length="10" />
+        </property>
+        <property name="price" type="int">
+            <column name="Price" not-null="true" />
+        </property>
+        <set name="assemblylines" table="assemblyline" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="idProducts" not-null="true" />
+            </key>
+            <one-to-many class="pojo.Assemblyline" />
+        </set>
+    </class>
+</hibernate-mapping>

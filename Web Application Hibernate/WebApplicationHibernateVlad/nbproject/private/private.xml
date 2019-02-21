@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/web/stylesheet.css</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/web/adauga_Assemblyline.jsp</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/web/tabela_Assemblyline.jsp</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/pojo/Assemblyline.hbm.xml</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/DAO/ComponentsDAO.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/Controller/ComponentsController.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/pojo/Assemblyline.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/web/adauga_Product.jsp</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/web/adauga_Component.jsp</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/pojo/Products.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/DAOImpl/HibernateUtil.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/DAO/ProductsDAO.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/DAO/AssemblylineDAO.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/DAOImpl/AssemblylineDAOImpl.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/Controller/AssemblylineController.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/DAOImpl/ProductsDAOImpl.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/Controller/ProductsController.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/web/tabela_Products.jsp</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/src/java/DAOImpl/ComponentsDAOImpl.java</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/web/index.html</file>
+            <file>file:/C:/Users/Vlad/Desktop/Proiect%20PAI%20MANEA%20VLAD%20hibernate/ProiectPAIVladHibernate2/web/tabela_Components.jsp</file>
+        </group>
+    </open-files>
+</project-private>

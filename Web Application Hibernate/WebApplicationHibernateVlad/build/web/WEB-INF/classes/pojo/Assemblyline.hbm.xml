@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Jan 19, 2019 2:11:31 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="pojo.Assemblyline" table="assemblyline" catalog="factory" optimistic-lock="version">
+        <id name="idAssemblyline" type="java.lang.Integer">
+            <column name="idAssemblyline" />
+            <generator class="identity" />
+        </id>
+        <many-to-one name="components" class="pojo.Components" fetch="select">
+            <column name="idComponents" not-null="true" />
+        </many-to-one>
+        <many-to-one name="products" class="pojo.Products" fetch="select">
+            <column name="idProducts" not-null="true" />
+        </many-to-one>
+        <property name="validation" type="int">
+            <column name="Validation" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>
